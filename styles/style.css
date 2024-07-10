@@ -45,7 +45,6 @@ nav > ul > li {
 .header-section {
     width: 1440px;
     height: 652px;
-    border: 2px solid black;
     margin: 0 auto;
     margin-top: 35px;
     background-image: url("../assets/Hero-bg.png");
