@@ -279,4 +279,153 @@ nav > ul > li {
     width: 1076px;
     height: 550px;
     padding: 32px;
+} 
+
+/*current-target-section style  */
+.current-target-section {
+    width: 1140px;
+    height: 463px;
+    margin: 0 auto;
+    margin-top: 100px;
+} 
+
+.current-target-section h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+} 
+
+.current-target-section p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0.8;
+    margin-top: 30px;
+} 
+
+.current-target-container {
+    display: flex;
+    gap: 25px;
+    justify-content: space-between;
+}
+
+.target-content-one {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 57px;
+}
+
+.target-content-h {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+    margin: 10px 0;
+} 
+
+.target-content-a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 5px;
+}
+
+.target-content-one p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+    text-align: left;
+}  
+
+.target-content-one a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 5px;
+}
+
+.target-content-img {
+    width: 56px;
+    height: 56px;
+}
+
+.target-content-two {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 57px;
+}  
+
+.target-content-two p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+    text-align: left;
+} 
+
+.target-content-two a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 5px;
+}
+
+.target-content-three {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 57px;
+} 
+
+.target-content-three p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+    text-align: left;
+} 
+
+.target-content-three a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 5px;
 }
